@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="title_learn">Обучение</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_me">Мой аккаунт</string>
+    <string name="SignIn">Вход</string>
+    <string name="Or">или</string>
+    <string name="SignUp">Регистация</string>
+    <string name="mail">Электронная почта</string>
+    <string name="Password">Пароль</string>
+</resources>
